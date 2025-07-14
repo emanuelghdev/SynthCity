@@ -3,6 +3,7 @@ Build/
 Logs/
 Temp/
 Speech/
+_Debug
 *.wfn
 *.spr
 *.agslog

@@ -19,7 +19,7 @@ En el juego podrás:
 
 # ¿Cómo jugar?
 1. Clona o descarga este repositorio.
-2. Accede a la carpeta "Compiled" y desde ahí entra a la carpeta "Windows".
+2. Accede a la carpeta `Compiled` y desde ahí entra a la carpeta `Windows`.
 3. Ejecuta `SynthCity.exe`.
 
 ó
@@ -27,11 +27,6 @@ En el juego podrás:
 1. Descarga la última versión desde la [página de itch.io](https://emanuelgh.itch.io/synthcity).
 2. Extrae el archivo `.zip` donde quieras.
 3. Ejecuta `SynthCity.exe`.
-
-# Notas
-
-- El juego actualmente se encuentra solo en español.  
-- El descargable actual es un  **prototipo**, incluye únicamente una zona de lo que sería el juego completo.
 
 # Compilar y modificar
 
@@ -58,4 +53,11 @@ Si quieres colaborar en el proyecto, para que todo fluya de forma ordenada, por 
 
 6. **Realiza un push** de tu rama a tu fork
 
-7. **Abre un Pull Request** desde tu rama hacia el main de este repositorio. ¡Si además incluyes una pequeña descripción te lo agradecería!
+7. **Abre un Pull Request** desde tu rama hacia el main de este repositorio. Si además incluyes una pequeña descripción te lo agradecería.
+
+**¡Muchas gracias!**
+
+# Notas
+
+- El juego actualmente se encuentra solo en español.  
+- El descargable actual es un  **prototipo**, incluye únicamente una zona de lo que sería el juego completo.
