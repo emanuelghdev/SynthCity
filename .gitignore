@@ -6,6 +6,7 @@ Speech/
 _Debug
 *.wfn
 *.spr
+*.bak
 *.agslog
 *.log
 
@@ -21,14 +22,6 @@ AudioCache/
 
 # Lockfile
 _OpenInEditor.lock
-
-# User settings
-Game.agf.user
-*.crm.user
-
-# Backups
-Game.agf.bak
-backup_acsprset.spr
 
 # Memory dumps
 *.dmp
