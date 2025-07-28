@@ -37,25 +37,9 @@ SynthCity es un prototipo de juego creado en **AGS (AdventureGameStudio)**, un s
 - Git
 - Git LFS
 
-## Guía de Contribución
+## Licencia
 
-Si quieres colaborar en el proyecto, para que todo fluya de forma ordenada, por favor sigue estos pasos:
-
-1. **Haz un fork** de este repositorio.
-
-2. **Clona** tu fork a tu máquina local.
-
-3. **Crea una rama** para tu cambio.
-
-4. **Realiza tus cambios** y asegúrate de que el juego compila y funciona.
-
-5. **Añade y haz commit** de tus cambios con mensajes explicativos.
-
-6. **Realiza un push** de tu rama a tu fork
-
-7. **Abre un Pull Request** desde tu rama hacia el main de este repositorio. Si además incluyes una pequeña descripción te lo agradecería.
-
-**¡Muchas gracias!**
+Este proyecto está bajo la [Licencia MIT](LICENSE). Siéntete libre de usarlo y modificarlo a tu gusto, así como también es bienvenida cualquier contribución.
 
 # Notas
 
